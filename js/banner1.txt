@@ -1,0 +1,5 @@
+﻿[
+{"img":"url('image/1-1-bigger.jpg')","title":"我是第一张图","url":"image/cf-1.jpg"},
+{"img":"url('image/1-2-bigger.jpg')","title":"我是第二张图","url":"image/cf-2.jpg"},
+{"img":"url('image/1-3-bigger.jpg')","title":"我是第三张图","url":"image/cf-3.jpg"},
+]
